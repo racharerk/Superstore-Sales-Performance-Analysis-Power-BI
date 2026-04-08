@@ -38,7 +38,12 @@ Analyze sales performance, profitability, and customer segmentation to identify 
 
 
 - Customer / Segment / Region
-  <img width="525" height="259" alt="3" src="https://github.com/user-attachments/assets/6fa487a8-1e99-4778-afdc-03a80aacfca2" />
+
+ 
+ <img width="525" height="259" alt="3" src="https://github.com/user-attachments/assets/6fa487a8-1e99-4778-afdc-03a80aacfca2" />
+
+
+
 <img width="491" height="225" alt="4" src="https://github.com/user-attachments/assets/dd9e97d5-e518-4995-bb73-01bfcacea530" />
 
 
@@ -56,4 +61,5 @@ superstore-sales-analysis/
 ├── images/
     ├── profit-analysis.png
     ├── category-analysis.png
-    └── customer-segmentation.png
+    ├── customer-segmentation.png
+    └── customer-Region.png
